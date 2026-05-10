@@ -182,7 +182,7 @@ class Shell:
 ╔══════════════════════════════════════════════════════╗
 ║         UNGA BUNGA AUTO-COMPLETE  v1.0.0             ║
 ║   Intelligent prefix completion • Type & explore     ║
-║   Tab=accept  Ctrl+N/P=cycle  F1=stats  :help=help  ║
+║   Tab=accept  Ctrl+N/P=cycle  F1=stats  :help=help   ║
 ╚══════════════════════════════════════════════════════╝
 """
 
